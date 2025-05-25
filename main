@@ -1,0 +1,27 @@
+book:
+  title: Update Book
+  author: YourAuthor
+  enabled: true
+  size: 256
+  - '#00bfff&l NEXUS SMP'   [change nexussmp with your server name - delete this part too.]
+  - ''
+  - '&8Things we added:'
+  - ''
+  - '#00BFFF- &8add your text'
+  - '#00BFFF- &8Badd your text'
+  - '#00BFFF- &8add your text'
+  - '#00BFFF- &8add your text'
+  - '#00BFFF- &8add your text'
+  - '#00BFFF- &8add your text'
+  - '#00BFFF- &8add your text'
+ 
+  openSound: ENTITY_PLAYER_LEVELUP
+
+whitelist-world:
+- spawn
+
+messages:
+  reloaded: '&aYou successfully reloaded the config [Coded By Crazo-PY]!'
+  permission: '&cYou dont have permission to use this command! [Coded By Crazo-PY]'
+  opened: '&a&lYou successfully opened the Book! [Coded By Crazo-PY]'
+  onlyInWhitelistWorld: '&cYou can only use this command in spawn [Coded By Crazo-PY]'
